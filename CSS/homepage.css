@@ -1,0 +1,23 @@
+.BrandName {
+    margin-top: 0px;
+    height:85px;
+    width: 310px;
+    float:left;
+    background-color: #EFEFEF;
+    text-align: center;
+    color: #A9D1BF;
+    -webkit-text-stroke-color: #20583E;
+    -webkit-text-stroke-width: 1.5px;
+    font-size: 30px;
+    font-family: 'Didot'f;}
+
+.Navigation-Bar {
+    line-height: 4.4em;
+   background-color: #A9D1BF;
+   float: right;
+   height: 85px;
+   width: 998px;
+   color: #FFFFFF;
+   font-size: 21px;
+   text-align: left;
+   font-family: 'Henriette'f;}
