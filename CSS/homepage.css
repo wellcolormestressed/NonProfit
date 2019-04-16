@@ -1,23 +1,83 @@
-.BrandName {
-    margin-top: 0px;
-    height:85px;
-    width: 310px;
+.brandbar {
+    height:101px;
+    width: 248px;
     float:left;
-    background-color: #EFEFEF;
-    text-align: center;
+    background-color: #D9D9D9;
+    position: relative;
+}
+.brandname {
     color: #A9D1BF;
+    position: absolute; 
+    left: 90px;
+    top: 28px;
     -webkit-text-stroke-color: #20583E;
     -webkit-text-stroke-width: 1.5px;
-    font-size: 30px;
-    font-family: 'Didot'f;}
+    font-size: 33px;
+    line-height: 4px;
+    text-align: left;
+    font-family: 'Didot';
 
-.Navigation-Bar {
-    line-height: 4.4em;
+}
+.navbar-nav {
+    top: 30px;
    background-color: #A9D1BF;
-   float: right;
-   height: 85px;
-   width: 998px;
-   color: #FFFFFF;
-   font-size: 21px;
-   text-align: left;
-   font-family: 'Henriette'f;}
+   height: 101px;
+   width: 1375px;
+}
+
+.Non-Profit {
+    font-style: italic; 
+    color: #ffffff;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Women {
+    font-style: italic; 
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Men {
+    font-style: italic; 
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Children {
+    font-style: italic; 
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.LifeStyle {
+    font-style: italic; 
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Account {
+    font-style: italic; 
+    color: #20583E;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Checkout {
+    font-style: italic; 
+    color: #20583E;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+ 
