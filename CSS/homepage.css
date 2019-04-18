@@ -24,7 +24,8 @@
 }
 .navbar-nav {
     top: 30px;
-   background-color: #A9D1BF;
+   /* background-color: #A9D1BF; */
+   background-color: red;
    height: 101px;
    width: 1380px;
 }
