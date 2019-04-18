@@ -8,6 +8,7 @@
 .container {
     width: 100%;
 }
+
 .brandname {
     color: #A9D1BF;
     position: absolute; 
@@ -86,7 +87,7 @@
  
 .picture-carousel {
     position: relative;
-    left: 226px; 
+    left: 220px; 
 }
 
 .about-our-brand {
