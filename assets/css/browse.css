@@ -1,0 +1,159 @@
+.brandbar {
+    height: 101px;
+    width: 248px;
+    float: left;
+    background-color: #D9D9D9;
+    position: relative;
+}
+
+.container {
+    width: 100%;
+}
+
+.brandname {
+    color: #A9D1BF;
+    position: absolute;
+    left: 90px;
+    top: 28px;
+    -webkit-text-stroke-color: #20583E;
+    -webkit-text-stroke-width: 1.5px;
+    font-size: 33px;
+    line-height: 10px;
+    text-align: left;
+    font-family: 'Didot';
+
+}
+
+.navbar-nav {
+    top: 30px;
+    background-color: #A9D1BF;
+    height: 101px;
+    width: 1380px;
+}
+
+.Non-Profit {
+    font-style: italic;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Women {
+    font-style: italic;
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Men {
+    font-style: italic;
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Children {
+    font-style: italic;
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.LifeStyle {
+    font-style: italic;
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Account {
+    font-style: italic;
+    color: #20583E;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Checkout {
+    font-style: italic;
+    color: #20583E;
+    font-size: 25px;
+    text-align: left;
+}
+.page-sidebar {
+    width: 250px;
+    float: left;
+}
+#menu-links li {
+    list-style-type: none;
+}
+
+.menu-sidebar-header {
+    font-family: 'Henriette';
+    color: #20583E;
+    font-size: 30px;
+    text-align: left;
+    line-height: 2em;
+    -webkit-text-stroke-color: #20583E;
+    -webkit-text-stroke-width: 1px;
+}
+
+.promo-list-group-title {
+    line-height: 4em;
+    font-family: 'Alegreya';
+    color: #E8B4B8;
+    font-size: 25px;
+    text-align: center;
+}
+
+.list-group-title {
+    font-family: 'Alegreya';
+    color: #A9D1BF;
+    font-size: 25px;
+    text-align: center;
+    line-height: 4em;
+}
+
+.item {
+    left: 18px;
+    font-family: 'Helvetica Neue';
+    color: #707070;
+    font-size: 20px;
+    text-align: left;
+    line-height: 1.5em;
+    vertical-align: middle;
+}
+
+.product-item {
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 12px;
+    letter-spacing: normal;
+}
+
+.image-container {
+    position: relative;
+}
+.item-details {
+text-align: center;
+}
+
+.item-title {
+    margin: 10px 0 0;
+    font-size: 20px;
+    font-family: 'Alegreya';
+    color: #20583E;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.item-price {
+    font-family: 'Helvetica Neue';
+    font-size: 18px;
+    color: #707070;
+}
