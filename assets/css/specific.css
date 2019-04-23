@@ -1,0 +1,172 @@
+.brandbar {
+    height: 101px;
+    width: 248px;
+    float: left;
+    background-color: #D9D9D9;
+    position: relative;
+}
+
+.container {
+    width: 100%;
+}
+
+.brandname {
+    color: #A9D1BF;
+    position: absolute;
+    left: 90px;
+    top: 28px;
+    -webkit-text-stroke-color: #20583E;
+    -webkit-text-stroke-width: 1.5px;
+    font-size: 33px;
+    line-height: 10px;
+    text-align: left;
+    font-family: 'Didot';
+
+}
+
+.navbar-nav {
+    top: 30px;
+    background-color: #A9D1BF;
+    height: 101px;
+    width: 1380px;
+}
+
+.Non-Profit {
+    font-style: italic;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Women {
+    font-style: italic;
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Men {
+    font-style: italic;
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Children {
+    font-style: italic;
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.LifeStyle {
+    font-style: italic;
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Account {
+    font-style: italic;
+    color: #20583E;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Checkout {
+    font-style: italic;
+    color: #20583E;
+    font-size: 25px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.image-container {
+    width: 100%;
+    float: left;
+    margin-right: -100%;
+    position: relative;
+    opacity: 1;
+    top: 115px;
+    left: 248px;
+}
+
+.product-photo-sidebar {
+    position: relative;
+    top: 270px;
+}
+
+.photos-plus1 {
+    position: relative;
+    margin: 0px 0px 43.6px 45px;
+}
+
+.photos-plus2 {
+    position: relative;
+    top: 43.6px;
+    margin: 0px 0px 43.6px 45px
+}
+
+.share-icon {
+    position: relative;
+    margin: 87.2px 0px 0px 75px
+}
+
+.info {
+    position: relative;
+    top: -350px;
+    left: 750px;
+}
+
+.produce-name {
+    font-family: 'Henriette';
+    color: #20583E;
+    font-size: 35px;
+    -webkit-text-stroke-color: #20583E;
+    -webkit-text-stroke-width: 1px;
+}
+
+.details {
+    font-family: 'Helvetica Neue';
+    color: #707070;
+    font-size: 30px;
+}
+
+.sizing-options {
+    position: relative;
+    left: 35px;
+}
+
+.cart-option {
+    position: relative;
+    top: 34px;
+    left: 30px;
+}
+
+.product-description {
+    position: relative;
+    top: 60px;
+    text-align: middle;
+    left: 50px;
+}
+
+.blurb-header {
+    font-family: 'Henriette';
+    font-size: 25px;
+    color: #A9D1BF;
+    -webkit-text-stroke-color: #A9D1BF;
+    -webkit-text-stroke-width: 1px;
+
+}
+
+.blurb-content {
+    font-family: 'Alegreya';
+    font-size: 20px;
+    color: #707070;
+}
