@@ -1,18 +1,17 @@
 .brandbar {
-    height: 101px;
+    height:101px;
     width: 248px;
-    float: left;
+    float:left;
     background-color: #D9D9D9;
     position: relative;
 }
-
 .container {
     width: 100%;
 }
 
 .brandname {
     color: #A9D1BF;
-    position: absolute;
+    position: absolute; 
     left: 90px;
     top: 28px;
     -webkit-text-stroke-color: #20583E;
@@ -23,68 +22,73 @@
     font-family: 'Didot';
 
 }
-
 .navbar-nav {
-    top: 30px;
-    background-color: #A9D1BF;
-    height: 101px;
-    width: 1380px;
+   top: 30px;
+   background-color: #A9D1BF; 
+   height: 101px;
+   width: 1380px;
+}
+
+.nav-topics {
+    font-family: 'Myanmar MN';
 }
 
 .Non-Profit {
-    font-style: italic;
+    font-style: italic; 
     color: #ffffff;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     line-height: 4em;
 }
 
 .Women {
-    font-style: italic;
+    font-style: italic; 
     color: #FFFFFF;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     line-height: 4em;
 }
 
 .Men {
-    font-style: italic;
+    font-style: italic; 
     color: #FFFFFF;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     line-height: 4em;
 }
 
 .Children {
-    font-style: italic;
+    font-style: italic; 
     color: #FFFFFF;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     line-height: 4em;
 }
 
 .LifeStyle {
-    font-style: italic;
+    font-style: italic; 
     color: #FFFFFF;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     line-height: 4em;
 }
 
 .Account {
-    font-style: italic;
+    font-style: italic; 
     color: #20583E;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     line-height: 4em;
 }
 
 .Checkout {
-    font-style: italic;
+    font-style: italic; 
     color: #20583E;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
+    line-height: 4em;
 }
+
 .page-sidebar {
     width: 250px;
     float: left;
@@ -94,7 +98,7 @@
 }
 
 .menu-sidebar-header {
-    font-family: 'Henriette';
+    font-family: 'Myanmar MN';
     color: #20583E;
     font-size: 30px;
     text-align: left;

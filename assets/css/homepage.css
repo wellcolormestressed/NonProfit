@@ -29,10 +29,14 @@
    width: 1380px;
 }
 
+.nav-topics {
+    font-family: 'Myanmar MN';
+}
+
 .Non-Profit {
     font-style: italic; 
     color: #ffffff;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     line-height: 4em;
 }
@@ -40,7 +44,7 @@
 .Women {
     font-style: italic; 
     color: #FFFFFF;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     line-height: 4em;
 }
@@ -48,7 +52,7 @@
 .Men {
     font-style: italic; 
     color: #FFFFFF;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     line-height: 4em;
 }
@@ -56,7 +60,31 @@
 .Children {
     font-style: italic; 
     color: #FFFFFF;
-    font-size: 25px;
+    font-size: 20px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.LifeStyle {
+    font-style: italic; 
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Account {
+    font-style: italic; 
+    color: #20583E;
+    font-size: 20px;
+    text-align: left;
+    line-height: 4em;
+}
+
+.Checkout {
+    font-style: italic; 
+    color: #20583E;
+    font-size: 20px;
     text-align: left;
     line-height: 4em;
 }
@@ -96,7 +124,7 @@
 }
 h2 {
     text-align: center;
-    font-family: "Henriette";
+    font-family: "Myanmar MN";
     font-size: 25px;
     font-style: italic bold;
     color: #20583E;
@@ -121,7 +149,7 @@ h2 {
 }
 
 h1 {
-    font-family: "Henriette";
+    font-family: "Myanmar MN";
     font-style: bold italic;
     color: #FFFFFF;
     font-size: 40px;
