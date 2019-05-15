@@ -1,5 +1,5 @@
 .brandbar {
-    height:101px;
+    height:101ix;
     width: 248px;
     float:left;
     background-color: #D9D9D9;
@@ -82,15 +82,14 @@
     text-align: left;
     line-height: 4em;
 }
- 
-.picture-carousel {
-    position: relative;
-    left: 220px; 
-}
 
 .about-our-brand {
     position: relative;
     top: 65px;
+}
+.main-image {
+    position: relative;
+    left: 205px;
 }
 h2 {
     text-align: center;

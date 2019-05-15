@@ -88,3 +88,22 @@
     color: #20583E;
     font-size:  48px;
 }
+
+.grid-container {
+    position: relative;
+    float: center;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 0px;
+    padding: 40px;
+    align-content: center;
+  }
+  
+  .grid-container > div {
+    background-color: #ffffff;
+    border: 3px solid #209B7F;
+    text-align: center;
+    font-family: 'Alegreya';
+    font-size: 23px;
+    color: #707070;
+  }
